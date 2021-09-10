@@ -7,12 +7,11 @@ learning and improving my skills on the latest web technologies.
 
 - 🔭 I’m currently working as a web development intern for IT Varsity.
 - 🌱 I’m currently expanding my skills in Php, MySQL and Python.
-- 👯 I’m looking to collaborate on projects andapplications that are innovative and positively impacting people's lives.
+- 👯 I’m looking to collaborate on projects and applications that are innovative and positively impacting people's lives.
 - 🤔 I’m looking for part-time or full time employment to keep practising my awesome web development skills.
-- 💬 Ask me about ...
 - 📫 Check out my portfolio webiste : https://sinoxolo.keipjas.itvarsitystudent.org
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm an avid tech enthusiast and a gamer. I mostly play FPS games and yes the best FIFA version still remains FIFA18.
+- ⚡ Fun fact: I'm an big tech enthusiast and a gamer. I mostly play FPS games and yes the best FIFA version still remains FIFA18.
+- 💬 I make the most of what I have.
 
 
 
