@@ -11,7 +11,7 @@ learning and improving my skills on the latest web technologies.
 - 🤔 I’m looking for part-time or full time employment to keep practising my awesome web development skills.
 - 📫 Check out my portfolio webiste : https://sinoxolo.keipjas.itvarsitystudent.org
 - ⚡ Fun fact: I'm an big tech enthusiast and a gamer. I mostly play FPS games as well as FIFA and of course game recommendations are welcome.
-- 💬 I make the most of what I have.
+- 💬 We unlock our greatness by working on the hard things.
 
 
 
